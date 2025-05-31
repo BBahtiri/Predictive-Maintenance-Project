@@ -7,8 +7,7 @@ Source: https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dat
 License: CC BY-NC-SA 4.0
 Project License: CC BY-NC-SA 4.0 (Non-commercial use only)
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Betim Bahtiri
 """
 
 import sys
