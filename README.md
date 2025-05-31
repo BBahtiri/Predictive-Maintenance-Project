@@ -192,7 +192,7 @@ For commercial applications, please contact the original dataset author for lice
 
 - **GitHub**: [@bbahtiri](https://github.com/bbahtiri)
 - **Email**: betimbahtiri@outlook.de
-- **LinkedIn**: [LinkedIN] (https://www.linkedin.com/in/dr-ing-betim-bahtiri-4852ab242/)
+- **LinkedIn**: [LinkedIN](https://www.linkedin.com/in/dr-ing-betim-bahtiri-4852ab242/)
 
 ---
 
