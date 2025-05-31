@@ -1,0 +1,86 @@
+# Predictive Maintenance .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (large files)
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Generated plots and outputs
+plots/
+outputs/
+results/
+
+# Dataset files (downloaded locally)
+*.csv
+*.xlsx
+*.json
+data/*.csv
+data/*.xlsx
+!data/README.md
+
+# Kaggle credentials
+.kaggle/
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# Model outputs and experiments
+experiments/
+checkpoints/
+wandb/
